@@ -1,2 +1,0 @@
-<ListBucketResult><Name>mono-sachin</Name><Prefix/><Marker/><NextMarker>tomcat-1.0.0.tgz</NextMarker><IsTruncated>true</IsTruncated><Contents><Key>tomcat-1.0.0.tgz</Key><Generation>1501637633913843</Generation><MetaGeneration>1</MetaGeneration><LastModified>2017-08-02T01:33:53.600Z</LastModified><ETag>"7ba1dd9555e78f23eac07a7223cdad18"</ETag><Size>4069</Size></Contents>
-</ListBucketResult>

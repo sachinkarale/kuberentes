@@ -1,3 +1,1 @@
-# kuberentes
-#This is Kubernetes Charts directory
-File Tree
+# Deis Hello World Application
