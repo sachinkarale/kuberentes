@@ -21,6 +21,6 @@ func main() {
 
 func hello(w http.ResponseWriter, req *http.Request) {
 	log.Printf("%s %s\n", req.Proto, req.URL)
-	fmt.Fprintln(w, "HELLO Chetan!")
+	fmt.Fprintln(w, "HELLO , It Works!")
 	fmt.Fprintln(w, "See the documentation at http://docs.deis.io/ for more information.")
 }
